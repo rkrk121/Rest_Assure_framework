@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-08T17:41:17 IST" name="Default suite" finished-at="2024-05-08T17:41:52 IST" duration-ms="35439">
+    <groups>
+    </groups>
+    <test started-at="2024-05-08T17:41:17 IST" name="Default test" finished-at="2024-05-08T17:41:52 IST" duration-ms="35439">
+      <class name="endToEndRMGYantra.RMGYantraFullTest">
+        <test-method is-config="true" signature="dataBaseConnect()[pri:0, instance:endToEndRMGYantra.RMGYantraFullTest@3b0090a4]" started-at="2024-05-08T17:41:13 IST" name="dataBaseConnect" finished-at="2024-05-08T17:41:17 IST" duration-ms="3903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataBaseConnect -->
+        <test-method signature="fullSDETRMGYantra()[pri:0, instance:endToEndRMGYantra.RMGYantraFullTest@3b0090a4]" started-at="2024-05-08T17:41:17 IST" name="fullSDETRMGYantra" finished-at="2024-05-08T17:41:52 IST" duration-ms="35376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fullSDETRMGYantra -->
+        <test-method is-config="true" signature="closeDBConnection()[pri:0, instance:endToEndRMGYantra.RMGYantraFullTest@3b0090a4]" started-at="2024-05-08T17:41:52 IST" name="closeDBConnection" finished-at="2024-05-08T17:41:52 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDBConnection -->
+      </class> <!-- endToEndRMGYantra.RMGYantraFullTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
